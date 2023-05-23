@@ -1,3 +1,3 @@
 # CubeLM
 
-CubeLM is a platform for building large language models and LLM-based chatbots. 
+CubeLM is an open source framework for training, customizing, and deploying your large language models.  
