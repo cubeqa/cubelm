@@ -1,3 +1,5 @@
 # CubeLM
 
-CubeLM is an open source framework for training, customizing, and deploying your large language models.  
+CubeLM is a large language model with personalized knowledge augmentation.
+
+
